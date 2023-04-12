@@ -3,7 +3,7 @@
   <a href="https://shanatta.vercel.app/#" target="_blank">shanatta</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/images/desktop-ui.jpg" />
+  <img alt="Demo" src="./assets/images/desktop-ui.jpg"/>
 </div>
 
 <br/>
